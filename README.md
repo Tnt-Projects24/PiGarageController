@@ -1,5 +1,8 @@
 
-# Tarun & Tanuj Siva - FastAPI Project
+# CS50 Introduction to Computer Programming 2023
+Final Project: Garage Door Opener/Monitor using Raspberry Pi.
+Created By Tanuj Siva & Tarun Siva 
+
 
 A comprehensive product inventory management system built with FastAPI backend and React frontend, providing seamless tracking and management of product inventory.
  o
