@@ -53,6 +53,10 @@ This solution needs the following:
 The picture shows that the two cables are in open position when the garage is open. These two cables will be in contact when the door is closed.
 ![Garage Activity Report](./static/CustomSensorCable.jpg)
 
+## Garage Door Status 
+An email in HTML format will be sent to the list of recipients configured in the .env file. A notification will also be sent through the Dropbox app. A Sample email alert is shown below:
+![Garage Activity Report](./static/GarageDoorStatus-Email.jpg)
+
 ## Requirements
 
 - **Device**: Created with Raspbeery Pi 2B
