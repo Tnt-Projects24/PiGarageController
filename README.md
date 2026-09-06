@@ -10,7 +10,7 @@ The Raspberry Pi also monitors the garage door status every second and it sends 
 The project is built on Python 3, SQLite3, SQLAlchemy, Shell scripts, Dropbox APIs. DropBox API key & secret keys need to be setup as part of the configuration.
 
 ![Garage Controller](./static/Garage-RaspPI-BreadBoard.jpg)
-### Technology Stack
+### Technology Stack/Requirements
 ```bash
 This solution needs the following:
 •	A Raspberry Pi Model 2 or later 
@@ -62,6 +62,7 @@ An email in HTML format will be sent to the list of recipients configured in the
 - **Device**: Created with Raspbeery Pi 2B
 - **Software**: Python3, DropBox account with API Keys, and SMTP accounts for email alerts
 - **Mobile App**: DropBox App
+
 
 
 ## Setup
