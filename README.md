@@ -1,4 +1,4 @@
-# CS50 Introduction to Computer Programming
+# Harvard University - CS50 Introduction to Computer Programming
 ## Final Project: Garage Door Remote controller using Raspberry Pi. 
 ## Created By Tanuj Siva & Tarun Siva in 2023.
 
